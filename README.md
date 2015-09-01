@@ -1,5 +1,5 @@
 # php-sqlite-statistic
-Скрипт статистики для сайтов (php, sqlite)
+Скрипт статистики для сайтов (php, sqlite) | Statistic php-sqlite script
 
 Использование:
 - в начало Вашего сайта вставьте (include_once 'start.php';) файл start.php

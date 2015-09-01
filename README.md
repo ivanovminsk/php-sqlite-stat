@@ -1,4 +1,4 @@
-# php-sqlite-stat
+# php-sqlite-statistic
 Скрипт статистики для сайтов (php, sqlite)
 
 Использование:
